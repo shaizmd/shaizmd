@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammed Shaiz</h1>
+<h2>Hi 👋, I'm Mohammed Shaiz</h2>
 
-<h3 align="center">
+<h3  align="center">
 Full-Stack Developer from India<br/>
 Building scalable, user-centric web applications with clean architecture and modern technologies
 </h3>
@@ -36,13 +36,9 @@ Building scalable, user-centric web applications with clean architecture and mod
 
 ---
 
-### 🏅 Hacktoberfest & Open Source Badges
+### 🏅 Open Source & Hacktoberfest
 
-<p align="center">
-  <a href="https://www.holopin.io/@shaizmd">
-    <img src="https://holopin.me/shaizmd" alt="Holopin Badges" />
-  </a>
-</p>
+[![Holopin badges](https://holopin.io/api/user/board?user=shaizmd)](https://www.holopin.io/@shaizmd)
 
 ---
 
