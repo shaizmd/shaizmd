@@ -1,25 +1,53 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shaiz</h1>
-<h3 align="center">A passionate Full-Stack Developer from India, focused on building scalable, user-centric web applications with clean architecture and modern technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaizmd&label=Profile%20views&color=0e75b6&style=flat" alt="shaizmd" /> </p>
+<h3 align="center">
+Full-Stack Developer from India 🇮🇳<br/>
+Building scalable, user-centric web applications with clean architecture and modern technologies
+</h3>
 
-- I’m currently working on **Real-world full-stack projects using Next.js, TypeScript, Node.js, and databases**
-
-- I’m currently learning **AWS basics, cloud fundamentals, and production-grade application practices**
-
-- All of my projects are available at [https://github.com/shaizmd](https://github.com/shaizmd)
-
-- Ask me about **React, Next.js, TypeScript, Node.js, APIs, databases, and full-stack architecture**
-
-- How to reach me **shaizmuhammed2005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaizmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaizmd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaiz_mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaiz_mohammed" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaizmd&label=Profile%20Views&color=0e75b6&style=flat" alt="shaizmd" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Open%20Source-orange" alt="Hacktoberfest" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaizmd&" alt="shaizmd" /></p>
+### 🚀 About Me
+- 🔭 Working on **real-world full-stack projects** using **Next.js, TypeScript, Node.js, and databases**
+- 🌱 Learning **AWS basics, cloud fundamentals, and production-grade application practices**
+- 💬 Ask me about **React, Next.js, TypeScript, APIs, databases, and full-stack architecture**
+- 👨‍💻 All my projects → **https://github.com/shaizmd**
+- 📫 Reach me at **shaizmuhammed2005@gmail.com**
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/shaizmd" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/shaiz_mohammed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,docker,aws,python,java&theme=dark&perline=8" />
+</a>
+
+---
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shaiz_mohammed?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaizmd&theme=dark" />
+</p>
