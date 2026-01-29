@@ -9,7 +9,7 @@ Building scalable, user-centric web applications with clean architecture and mod
   <img src="https://komarev.com/ghpvc/?username=shaizmd&label=Profile%20Views&color=0e75b6&style=flat" alt="shaizmd" />
 </p>
 
----
+<hr style="height:0.1px; border:none; background-color:#444; width:50%; margin:auto;">
 
 ###  About Me
 - 🔭 Working on **real-world full-stack projects** using **Next.js, TypeScript, Node.js, and databases**
@@ -18,7 +18,7 @@ Building scalable, user-centric web applications with clean architecture and mod
 - 👨‍💻 All my projects → **https://github.com/shaizmd**
 - 📫 Reach me at **shaizmuhammed2005@gmail.com**
 
----
+<hr style="height:0.1px; border:none; background-color:#444; width:50%; margin:auto;">
 
 ###  Connect With Me
 <p align="left">
@@ -27,27 +27,27 @@ Building scalable, user-centric web applications with clean architecture and mod
   </a>
 </p>
 
----
+<hr style="height:0.1px; border:none; background-color:#444; width:50%; margin:auto;">
 
 ### 🛠 Languages & Tools
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,docker,aws,python,java&theme=dark&perline=11" />
 </a>
 
----
+<hr style="height:0.1px; border:none; background-color:#444; width:50%; margin:auto;">
 
 ### 🏅 Open Source & Hacktoberfest
 
-[![Holopin badges](https://holopin.io/api/user/board?user=shaizmd)](https://www.holopin.io/@shaizmd)
+[![An image of @shaizmd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaizmd)](https://holopin.io/@shaizmd)
 
----
+<hr style="height:0.1px; border:none; background-color:#444; width:50%; margin:auto;">
 
 ###  LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shaiz_mohammed?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
----
+<hr style="height:0.1px; border:none; background-color:#444; width:50%; margin:auto;">
 
 ###  GitHub Activity
 <p align="center">
